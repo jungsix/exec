@@ -1,2 +1,2 @@
 # exec
-정말 test
+정말 진짜 test
